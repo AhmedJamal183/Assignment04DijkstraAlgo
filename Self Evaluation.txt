@@ -1,0 +1,21 @@
+Ahmed Jamal
+F00534171
+
+1. How long did you spend on this assignment?
+
+Approx 2.5 Hours
+
+2. Based on your effort, what letter grade would you say you earned?
+
+Grade A
+
+
+3. Based on your solution, what letter grade would you say you earned?
+
+Grade A
+
+4. Provide a summary of what doesn't work in your solution, along with an explanation of how you attempted to solve the problem and where you feel you struggled.
+
+To solve the issue Set all vertices distances, Push the source vertex in a min-priority queue.
+Then Pop the vertex with the minimum distance from the priority queue. If the popped vertex is visited before Update distance value of all adjacent vertices of u. 
+To update the distance values, iterate through all adjacent vertices.
